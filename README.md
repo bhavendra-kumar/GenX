@@ -1,6 +1,6 @@
 <h1>GenX – Generative AI Chatbot</h1>
 
-<h6>GenX is a simple yet powerful Generative AI chatbot built with Python that connects to the Google Gemini API. It enables natural conversations with an AI assistant directly from the terminal.</h6>
+<h4>GenX is a simple yet powerful Generative AI chatbot built with Python that connects to the Google Gemini API. It enables natural conversations with an AI assistant directly from the terminal.</h4>
 
 Designed as a lightweight project for learning and experimentation, GenX makes it easy to understand how modern AI models can be integrated into real-world applications.
 
